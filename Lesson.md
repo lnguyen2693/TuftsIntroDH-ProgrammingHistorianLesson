@@ -1,14 +1,8 @@
 # Working with Files and Tokenization in Python
 
-**Author**: Nguyễn Vũ Hà Linh  
-**Reviewed by**: (placeholder for reviewer's name)  
-**Date**: April 2025
-
 ## Introduction
 
 This tutorial introduces you to two essential text processing techniques in digital humanities: **working with files** and **tokenization**.  
-Working with files allows us to read text from documents, while tokenization is the process of breaking that text into meaningful units — typically words.  
-Together, these two skills enable many types of textual analysis, from simple word counts to sophisticated natural language processing.
 
 This lesson assumes you have basic Python knowledge — variables, loops, and simple data types — but no prior experience with reading files or tokenization.
 
@@ -124,7 +118,7 @@ What additional stop words might you want to remove depending on your text?
 
 ## Cleaning Punctuation
 
-You may have noticed that even after removing stop words, some tokens still look messy ("summer," or "shine?").  
+You may have noticed that even after removing stop words, some tokens still look messy ("Fear," or "breast;").  
 Let's clean that up by removing punctuation from tokens.
 
 One way is to use the `string` module:
