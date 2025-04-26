@@ -28,7 +28,7 @@ You will need:
 - Python 3 installed on your computer
 - A plain text file to work with (we will use a sample file in this lesson)
 
-You can download a sample text file [here](https://github.com/lnguyen2693/TuftsIntroDH-ProgrammmingHistorianLesson/main/book_9.txt) if you don't already have one.
+You can download a sample text file [here](https://github.com/lnguyen2693/TuftsIntroDH-ProgrammingHistorianLesson/blob/main/book_9.txt) if you don't already have one.
 
 You can follow along using a Jupyter notebook.
 
